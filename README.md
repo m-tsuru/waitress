@@ -35,3 +35,10 @@ alias waiter="waitress"
 ```
 
 I have no discriminatory intent at all!　I like the maid costumes in Japanese anime or [Akihabara](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%90%E7%B3%BB) ...
+
+
+## Sound
+
+This product contains sounds file that created with [VOICEVOX](https://voicevox.hiroshiba.jp/term/).
+
+- waitress_def.wav: 「VOICEVOX: ずんだもん」
